@@ -1,4 +1,11 @@
 <?php
+/*
+Plugin Name: RevinSite
+Plugin URI: https://wordpress.org/plugins/revinsite/
+Description: Allows users to place ads by RevinSite
+Version: 1.0.0
+Author: krupenik
+*/
 
 function revinsite_add_adserver_javascript_snippet() {
 ?>
