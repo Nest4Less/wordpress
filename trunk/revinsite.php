@@ -3,7 +3,7 @@
 function revinsite_add_adserver_javascript_snippet() {
 ?>
 <script>
-(function(a,d,v,e,r,t){r=a.createElement(d),t=a.getElementsByTagName(d)[0];r.async=1;r.src=v;t.parentNode.insertBefore(r,t);})(document,'script','//as.rev-insite.com/assets/.js')
+(function(a,d,v,e,r,t){r=a.createElement(d),t=a.getElementsByTagName(d)[0];r.async=1;r.src=v;t.parentNode.insertBefore(r,t);})(document,'script','//as.rev-insite.com/bundle.js')
 </script>
 <?php
 }
